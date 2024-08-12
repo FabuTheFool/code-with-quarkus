@@ -1,3 +1,20 @@
+# Tareas
+[Tarea 1](tarea1.md)
+Agregar un archivo tarea1.md con el formato de markdown donde se respondan las siguientes preguntas:
+Conceptos Fundamentales
+¿Qué es un servicio REST?
+¿Cuáles son los principios del diseño RESTful?
+¿Qué es HTTP y cuáles son los métodos HTTP más comunes?
+¿Qué es un recurso en el contexto de un servicio REST?
+¿Qué es un endpoint?
+ Estructura de un Servicio REST
+¿Qué es un URI y cómo se define?
+¿Qué es una API RESTful?
+¿Qué son los códigos de estado HTTP y cómo se usan en REST?
+Agregar una tabla con los códigos HTTP de respuesta más comunes, y su significado.
+¿Qué es JSON y por qué se usa comúnmente en APIs REST?
+
+
 # code-with-quarkus
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
